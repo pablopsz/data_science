@@ -8,7 +8,7 @@
 # Pablo Souza
 <sub>*Estudante assíduo de Data Science</sub>
 
-Como estudando e entusiasta da análise de dados meu foco é combinar minhas aptidões em raciocínio lógico, fácil absorção de informação, criativade e comunicação para contar histórias por meio dos dados.
+Como estudante e entusiasta da análise de dados meu foco é combinar minhas aptidões em raciocínio lógico, fácil absorção de informação, criativade e comunicação para contar histórias por meio dos dados.
 
 Atualmente cursando ciência da computação pela instituição de ensino IBMR, além de estudar tópicos como matemática, estatística e inglês.
 
