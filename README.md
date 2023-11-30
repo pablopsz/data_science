@@ -6,7 +6,7 @@
 </p>
 
 # Pablo Souza
-<sub>*Estudante assíduo de Data Science</sub>
+<sub>*Estudante assíduo de Data Science*</sub>
 
 Como estudante e entusiasta da análise de dados meu foco é combinar minhas aptidões em raciocínio lógico, fácil absorção de informação, criativade e comunicação para contar histórias por meio dos dados.
 
