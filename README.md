@@ -15,6 +15,7 @@ Atualmente cursando ciência da computação pela instituição de ensino IBMR, 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/pablopsouza/)
 
-
+## Projetos:
+* **(10/2022)** **Analisando os Dados do Airbnb:** [https://bit.ly/projetoairbnb_rio](https://github.com/pablopsz/data_science/edit/main/README.md)https://github.com/pablopsz/data_science/edit/main/README.md
 
 
