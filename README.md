@@ -17,5 +17,6 @@ Atualmente cursando ciência da computação pela instituição de ensino IBMR, 
 
 ## Projetos:
 * **(12/2023)** [**Analisando os Dados do Airbnb**](https://github.com/pablopsz/data_science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)
+* **(12/2023)** [**Panorama do COVID- 19 no Brasil**](https://github.com/pablopsz/data_science/blob/main/Panorama_do_COVID_19_no_Brasil.ipynb)
 
 
