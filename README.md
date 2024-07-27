@@ -21,3 +21,4 @@ Atualmente cursando ciência da computação pela instituição de ensino IBMR, 
 * **(01/2024)** [**Detecção de Fraude em Cartões de Crédito**](https://github.com/pablopsz/data_science/blob/main/Detecção_de_Fraude_em_Cartões_de_Crédito.ipynb)
 * **(01/2024)** [**Churn Prediction para uma empresa de Telecomunicações**](https://github.com/pablopsz/data_science/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunicações.ipynb)
 * **(02/2024)** [**Avaliação de Risco de Crédito**](https://github.com/pablopsz/data_science/blob/main/Avaliação_de_Risco_de_Crédito.ipynb)
+* **(07/2024)** [**Análise de Carros Seminovos**](https://github.com/pablopsz/data_science/tree/main/analise_seminovos)
