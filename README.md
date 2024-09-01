@@ -22,3 +22,4 @@ Atualmente cursando ciência da computação pela instituição de ensino IBMR, 
 * **(01/2024)** [**Churn Prediction para uma empresa de Telecomunicações**](https://github.com/pablopsz/data_science/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunicações.ipynb)
 * **(02/2024)** [**Avaliação de Risco de Crédito**](https://github.com/pablopsz/data_science/blob/main/Avaliação_de_Risco_de_Crédito.ipynb)
 * **(07/2024)** [**Análise de Carros Seminovos**](https://github.com/pablopsz/data_science/tree/main/analise_seminovos)
+* **(08/2024)** [**Sistema de Recomendação de Filmes**](https://github.com/pablopsz/data_science/blob/main/Sistema_de_Recomendação_de_Filmes.ipynb)
